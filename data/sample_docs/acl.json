@@ -1,0 +1,16 @@
+{
+  "employee_handbook.md": [
+    "all"
+  ],
+  "security_policy.pdf": [
+    "all"
+  ],
+  "incident_runbook.html": [
+    "engineering",
+    "admin"
+  ],
+  "compensation_bands.docx": [
+    "hr",
+    "admin"
+  ]
+}
